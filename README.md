@@ -5,7 +5,7 @@
 🌱 I’m currently learning Python for Data Analysis<br />
 🎓 I graduated from [Northeastern University](https://www.northeastern.edu/)<br />
 ⚡ Currently working for [BRP Inc](https://www.brp.com/)<br />
-📧 Have questions ? [vora.do@northeastern.edu](mailto: vora.do@northeastern.edu)<br />
+📧 Have questions ? [vora.do@northeastern.edu](mailto:vora.do@northeastern.edu) <br />
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/dollarvora/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
