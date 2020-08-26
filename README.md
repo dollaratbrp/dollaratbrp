@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dollar, a BI/ Data Analyst based in Quebec, Canada 
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dollar, a BI/ Data Analyst based in Quebec, Canada 
 
 💻 I love analyzing data and wrapping the findings in an aesthetically pleasing webpage <br />
 🔭 I'm currently working on [R](https://www.r-project.org/about.html) and [Shiny](https://shiny.rstudio.com/)<br />
@@ -31,7 +31,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-<p  align="left">
-  <img src="https://github-readme-stats-zeta-three.vercel.app/api/?username=dollarvora&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-</p>
+
+  <img align="left" src="https://github-readme-stats-zeta-three.vercel.app/api/?username=dollarvora&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+
+<img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats-zeta-three.vercel.app/api/top-langs/?username=dollarvora&layout=compact&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" />
 </details>
