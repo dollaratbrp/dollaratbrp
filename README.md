@@ -34,5 +34,5 @@
 
   <img align="left" src="https://github-readme-stats-zeta-three.vercel.app/api/?username=dollarvora&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
-<img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats-zeta-three.vercel.app/api/top-langs/?username=dollarvora&layout=compact&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" />
+<img align="right" alt="dollarvora Github programs" src="https://github-readme-stats-zeta-three.vercel.app/api/top-langs/?username=dollarvora&layout=compact&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" />
 </details>
