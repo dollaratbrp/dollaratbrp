@@ -14,6 +14,13 @@
 <a href= "https://www.instagram.com/dollarvora/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
 </p>
 
+
+:zap: Recent Github Activity
+  
+<!--START_SECTION:activity-->
+
+
+
 <details>
   <summary>:zap: Github Stats</summary>
 <p  align="left">
