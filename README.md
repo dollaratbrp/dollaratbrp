@@ -14,11 +14,12 @@
 <a href= "https://www.instagram.com/dollarvora/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
 </p>
 
-
-:zap: Recent Github Activity
+<details>
+  <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 
+</details>
 
 
 <details>
