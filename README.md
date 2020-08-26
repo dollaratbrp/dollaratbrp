@@ -8,7 +8,10 @@
 📧 Have questions ? [vora.do@northeastern.edu](mailto:vora.do@northeastern.edu) <br />
 
 #### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-blond.vercel.app/api/spotify-playing" alt="Dollar's Spotify Playing" width="350" />](https://open.spotify.com/user/12154465840)
+<a href="https://spotify-now-playing-blond.vercel.app/now-playing?open">
+    <img src="https://spotify-now-playing-blond.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+<!-- [<img src="https://spotify-now-playing-blond.vercel.app/api/spotify-playing" alt="Dollar's Spotify Playing" width="350" />](https://open.spotify.com/user/12154465840)-->
 
 #### Connect with me
 <p align="left">
