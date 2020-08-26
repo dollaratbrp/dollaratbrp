@@ -14,6 +14,9 @@
 <a href= "https://www.instagram.com/dollarvora/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
 </p>
 
-<p  align="center">
-  <img src="https://github-readme-stats-zeta-three.vercel.app/api/?username=dollarvora&count_private=true&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+<details>
+  <summary>:zap: Github Stats</summary>
+<p  align="left">
+  <img src="https://github-readme-stats-zeta-three.vercel.app/api/?username=dollarvora&count_private=true&show_icons=true&hide_border=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
+</details>
