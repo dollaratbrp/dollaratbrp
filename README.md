@@ -7,7 +7,11 @@
 ⚡ Currently working for [BRP Inc](https://www.brp.com/)<br />
 📧 Have questions ? [vora.do@northeastern.edu](mailto:vora.do@northeastern.edu) <br />
 
-<p align="center">
+#### Spotify Playing 🎧
+[<img src="https://spotify-now-playing-blond.vercel.app/api/spotify-playing" alt="Dollar's Spotify Playing" width="350" />](https://open.spotify.com/user/12154465840)
+
+#### Connect with me
+<p align="left">
 <a href= "https://www.linkedin.com/in/dollarvora/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/dollarvora"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://www.facebook.com/dollarvora/"><img src="https://img.icons8.com/material-outlined/30/000000/facebook.png"/></a>
